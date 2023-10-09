@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #59D466;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+footer {
+    background-color: #7078C2;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+address {
+    font-style: normal;
+}
